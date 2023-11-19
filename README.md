@@ -1,6 +1,6 @@
 <!-- Inglês -->
 
-<img src="imagens/banner.png" width="100%">
+<img src="imagens/programmer.png" width="100%">
 
 <h1>About Me</h1>
 Hi there! I'm João Victor Gonzaga de Carvalho, a 17-year-old aspiring computer scientist. I'm currently pursuing a technical degree in informatics at Senac Vila Prudente and also taking a Python course at Senai Vila Alpina, which is a 80-hour intensive program.
