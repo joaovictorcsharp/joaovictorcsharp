@@ -13,6 +13,8 @@ I have expertise in various programming languages and technologies, including:
 ## Connect with Me
 You can connect with me on the following platforms:
 
+[![redes-sociais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+
 <!--Imagens-->
 <a href="[https://www.instagram.com/jhonviivi/](https://www.linkedin.com/in/jo%C3%A3o-victor-gonzaga-716a94231/)"><img src="imagens/linkedin.png" alt width="30px"></a>
 &nbsp;
