@@ -1,6 +1,9 @@
 <!-- Inglês -->
 
-<img src="imagens/programmer.png" width="100%">
+<img src="imagens/programmer.png" width="100%"> <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictorcsharp&show_icons=true&theme=transparent) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorcsharp&layout=compact)
+
+
 
 <h1>About Me</h1>
 Hi there! I'm João Victor Gonzaga de Carvalho, a 17-year-old aspiring computer scientist. I'm currently pursuing a technical degree in informatics at Senac Vila Prudente and also taking a Python course at Senai Vila Alpina, which is a 80-hour intensive program.
@@ -8,17 +11,25 @@ Hi there! I'm João Victor Gonzaga de Carvalho, a 17-year-old aspiring computer 
 ## Skills
 I have expertise in various programming languages and technologies, including:
 <br>
-<img src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" alt="" width="30px"> &nbsp; <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/MySQL-Logo.wine.png" alt="" width="30px"> <img src="https://img.freepik.com/icones-gratis/html5_318-903450.jpg?w=2000" alt="" width="30px"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" alt="" width="30px"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="" width="30px"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="" width="30px"> &nbsp;  <img src="imagens/sqlserver.png" alt="" width="30px"> 
+<div>
+            <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+            <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+            <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+            <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+            <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+            <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+            <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+            <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white">
+            <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+</div>
 
 ## Connect with Me
 You can connect with me on the following platforms:
 
-[![redes-sociais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![redes-sociais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-gonzaga-de-carvalho-716a94231/)
 
-<!--Imagens-->
-<a href="[https://www.instagram.com/jhonviivi/](https://www.linkedin.com/in/jo%C3%A3o-victor-gonzaga-716a94231/)"><img src="imagens/linkedin.png" alt width="30px"></a>
-&nbsp;
-<a href="https://www.instagram.com/jhonviivi/"><img src="imagens/instagram.png" alt width="30px"></a>
 
 
 <!-- Português -->
@@ -28,12 +39,19 @@ Olá! Sou João Victor Gonzaga de Carvalho, um aspirante a cientista da computa�
 ## Habilidades
 Tenho conhecimento em várias linguagens de programação e tecnologias, incluindo:
 <br>
-<img src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" alt="" width="30px"> &nbsp; <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/MySQL-Logo.wine.png" alt="" width="30px"> <img src="https://img.freepik.com/icones-gratis/html5_318-903450.jpg?w=2000" alt="" width="30px"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" alt="" width="30px"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="" width="30px"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="" width="30px"> &nbsp;  <img src="imagens/sqlserver.png" alt="" width="30px"> 
+<div>
+            <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+            <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+            <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+            <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+            <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+            <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+            <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+            <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white">
+            <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+</div>
 
 ## Conecte-se Comigo
-<a
-            href="[https://www.instagram.com/jhonviivi/](https://www.linkedin.com/in/jo%C3%A3o-victor-gonzaga-716a94231/)"><img
-                src="imagens/linkedin.png" alt width="30px"></a>
-        &nbsp;
-        <a href="https://www.instagram.com/jhonviivi/"><img
-                src="imagens/instagram.png" alt width="30px"></a>
+[![redes-sociais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-gonzaga-de-carvalho-716a94231/)
