@@ -49,9 +49,6 @@ Sou estudante de tecnologia e desenvolvedor em formação. Tenho interesse em de
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=joaovictorcsharp&show_icons=true&hide_border=true&bg_color=05090D&title_color=40F7A7&icon_color=39A9FF&text_color=E6FFF8&locale=pt-br)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorcsharp&layout=compact&hide_border=true&bg_color=05090D&title_color=40F7A7&text_color=E6FFF8&locale=pt-br)
 
 </div>
 
@@ -61,7 +58,7 @@ Sou estudante de tecnologia e desenvolvedor em formação. Tenho interesse em de
 
 ### Vamos construir algo juntos?
 
-[GitHub](https://github.com/joaovictorcsharp) • [LinkedIn](https://www.linkedin.com/in/joao-victor-gonzaga-de-carvalho-716a94231) • [Portfólio](https://SEU-LINK.vercel.app)
+[GitHub](https://github.com/joaovictorcsharp) • [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-gonzaga-de-carvalho-716a94231/) • [Portfólio](https://SEU-LINK.vercel.app)
 
 ![Visualizações](https://komarev.com/ghpvc/?username=joaovictorcsharp&color=00e5a0&style=flat-square&label=VISITAS)
 
