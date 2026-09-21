@@ -42,8 +42,7 @@ Sou estudante de tecnologia e desenvolvedor em formação. Tenho interesse em de
 
 | Projeto | Descrição | Tecnologias | Demonstração |
 |---|---|---|---|
-| **Sistema de Estoque** | Cadastro, pesquisa e acompanhamento de registros | PHP, MySQL, Bootstrap | [Acessar](https://SEU-PROJETO.vercel.app) |
-| **BoxCrash Farmácia** | Sistema acadêmico com banco de dados relacional | PHP, MySQL, JavaScript | [Acessar](https://SEU-PROJETO.vercel.app) |
+| **Bem estar Farmácia** | Sistema acadêmico com banco de dados relacional (baseado em empresa familiar) | PHP, MySQL, JavaScript | [Acessar](https://SEU-PROJETO.vercel.app) |
 | **Próximo projeto** | Um novo projeto está sendo preparado | Next.js, TypeScript | Em breve |
 
 ## `> estatísticas`
