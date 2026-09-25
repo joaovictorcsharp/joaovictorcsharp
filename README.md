@@ -40,10 +40,10 @@ Sou estudante de tecnologia e desenvolvedor em formação. Tenho interesse em de
 
 ## `> projetos_em_destaque`
 
-| Projeto | Descrição | Tecnologias | Demonstração |
-|---|---|---|---|
-| **Bem estar Farmácia** | Sistema acadêmico com banco de dados relacional (baseado em empresa familiar) | PHP, MySQL, JavaScript | [Acessar](https://SEU-PROJETO.vercel.app) |
-| **Próximo projeto** | Um novo projeto está sendo preparado | Next.js, TypeScript | Em breve |
+| Projeto | Descrição | Tecnologias | 
+|---|---|---|
+| **Bem estar Farmácia** | Sistema acadêmico com banco de dados relacional (baseado em empresa familiar) | PHP, MySQL, JavaScript | 
+| **Próximo projeto** | Um novo projeto está sendo preparado | *** |
 
 ## `> estatísticas`
 
