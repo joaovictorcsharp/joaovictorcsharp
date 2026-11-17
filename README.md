@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/imagens/211788.gif" alt="Painel de personagens de Jujutsu Kaisen em tons de vermelho e roxo" width="100%" />
+  <img src="/imagens/211788.gif" alt="Painel de personagens de Jujutsu Kaisen em tons de vermelho e roxo" width="80%" />
 </div>
 
 <table>
@@ -20,7 +20,7 @@
       </p>
     </td>
     <td align="center" valign="middle" width="32%">
-      <img src="/imagens/banner.png" alt="Gojo Satoru" width="250" />
+      <img src="/imagens/thumb-1920-1345576.jpeg" alt="Gojo Satoru" width="250" />
     </td>
   </tr>
 </table>
